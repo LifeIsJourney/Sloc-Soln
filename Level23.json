@@ -1,0 +1,149 @@
+{
+    "levelNumber": 23,
+    "rewindData": [
+        {
+            "targetBlock": {
+                "m_FileID": -13774,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 4
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13494,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13774,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 1
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13354,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 2
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13354,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13214,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 2
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13284,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": -1.0,
+                "y": -1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 4
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13214,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -13984,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": -1.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 1
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "levelNumber": 31,
+    "rewindData": [
+        {
+            "targetBlock": {
+                "m_FileID": -26818,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 1
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -26818,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": -1.0,
+                "y": -1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 4
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -26538,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -27378,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 1
+        },
+        {
+            "targetBlock": {
+                "m_FileID": -26468,
+                "m_PathID": 0
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": -1.0
+            },
+            "newPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        }
+    ]
+}
