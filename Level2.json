@@ -1,0 +1,50 @@
+{
+    "levelNumber": 2,
+    "rewindData": [
+        {
+            "targetBlock": {
+                "instanceID": -84524
+            },
+            "prevPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "firstDirection": 1,
+            "whichDirection": 2
+        },
+        {
+            "targetBlock": {
+                "instanceID": -84804
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 4
+        },
+        {
+            "targetBlock": {
+                "instanceID": -85014
+            },
+            "prevPosition": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": -1.0,
+                "y": 1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        }
+    ]
+}

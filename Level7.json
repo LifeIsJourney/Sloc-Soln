@@ -1,0 +1,35 @@
+{
+    "levelNumber": 7,
+    "rewindData": [
+        {
+            "targetBlock": {
+                "instanceID": -156308
+            },
+            "prevPosition": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": -1.0,
+                "y": 1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 3
+        },
+        {
+            "targetBlock": {
+                "instanceID": -156448
+            },
+            "prevPosition": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "newPosition": {
+                "x": 1.0,
+                "y": -1.0
+            },
+            "firstDirection": 2,
+            "whichDirection": 4
+        }
+    ]
+}
